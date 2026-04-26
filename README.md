@@ -1,4 +1,4 @@
-# lab8
+# KNN
 This machine learning lab utilizes the K-Nearest Neighbors (KNN) classifier for predicting the Target class.
 
 Steps :   
